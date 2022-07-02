@@ -8,4 +8,4 @@
 
 # 📌 Visit to Live Interact : 🔗
 
-  https://Hemant-mulchandani.github.io/GDSC-IIST-Core-Team-Onboarding-Email/ 
+  https://Hemant-Mulchandani.github.io/GDSC-IIST-Core-Team-Onboarding-Email/ 
